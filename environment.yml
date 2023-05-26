@@ -1,4 +1,4 @@
-name: wavepower_usecase
+name: wavewatch3_usecase
 channels:
   - conda-forge
 dependencies:
