@@ -11,7 +11,7 @@ This Jupyter Notebook is part of the work for a research paper
 
 ### Notebook Citation
 Undzis, B., Moriarty, J. M. (2023) Data Component Use Case for Wave Power Calculation, 
-HydroShare, http://www.hydroshare.org/resource/b044425647e146229a778d59b164d7cf
+HydroShare, https://doi.org/10.4211/hs.b044425647e146229a778d59b164d7cf
 
 
 ### Run the Notebook
